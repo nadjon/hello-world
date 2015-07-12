@@ -1,0 +1,3 @@
+puts "are your eyes working okay?"
+eyeq = gets.chomp
+puts "\n you answered #{eyeq}"
